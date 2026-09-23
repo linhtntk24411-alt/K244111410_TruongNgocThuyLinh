@@ -6,7 +6,7 @@
   },
   "newProjectRoot": "projects",
   "projects": {
-    "my-btvn": {
+    "bai-13": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -56,10 +56,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "my-btvn:build:production"
+              "buildTarget": "bai-13:build:production"
             },
             "development": {
-              "buildTarget": "my-btvn:build:development"
+              "buildTarget": "bai-13:build:development"
             }
           },
           "defaultConfiguration": "development"
