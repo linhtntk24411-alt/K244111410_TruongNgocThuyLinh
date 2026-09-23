@@ -1,0 +1,35 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.wrapper {
+  display: inline-block;
+  text-align: left;
+  border: 3px double black;
+  padding: 15px;
+}
+
+.category {
+  margin-bottom: 20px;
+}
+
+.category:last-child {
+  margin-bottom: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border: 3px double black;
+}
+
+td {
+  padding: 5px 10px;
+  border: 3px double black;
+  vertical-align: middle;
+}
+
+img {
+  display: block;
+  width: 60px;
+}
